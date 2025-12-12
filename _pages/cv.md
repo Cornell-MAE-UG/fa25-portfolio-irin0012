@@ -3,9 +3,9 @@ layout: default
 title: <Zhiyu (Iris) Ren> - Zhiyu (Iris) Ren 
 permalink: /cv/
 ---
-## Curriculum Vitae
+## Zhiyu (Iris) Ren
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Resume_zhiyu Iris Ren.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [zr92@cornell.edu](mailto:zr92@cornell.edu) | | | **Phone:** +9514569109
