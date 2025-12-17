@@ -7,11 +7,12 @@ image: /assets/images/wind_turbine.jpg
 ---
 
 <strong>Project Overview</strong>
-As part of a class project，we were designing a wind blade for operation and performance testing in Big Blue wind tunnel in Upson 256, Cornell University. The main constraints for the blades:
-● a maximum length of blade of 6 inches,
-● blade compatible with standard hub piece of 1 in in radius,
-● wind turbine operating at a fixed angular velocity under 2000 rpm,
-● Wind in the environment follows a velocity distribution described by a Weibull probability distribution with parameters k=5 and c=5. 
+As part of a class project，we were designing a wind blade for operation and performance testing in Big Blue wind tunnel in Upson 256, Cornell University. The The main constraints for the blades are:
+
+- Maximum blade length of **6 inches**
+- Blade compatible with a standard hub piece of **1 in radius**
+- Wind turbine operating at a fixed angular velocity under **2000 rpm**
+- Wind velocity follows a **Weibull distribution** with parameters **k = 5** and **c = 5**
 
 
 <strong>Design and Testing</strong>
