@@ -7,6 +7,6 @@ image: /assets/images/wind_turbine.jpg
 ---
 
 
-As part of a class project，we were designing a wind blade for operation and performance testing in Big Blue wind tunnel in Upson 256, Cornell University. My role is contributing to the math calculation to determine the estimated wind speed and power ouput and designing the experimental procedures to ensure the accruacy and safety of data collection. Please refer to our [final report]({{ "/assets/MAE_4272_Final_Report.pdf" | relative_url }}) in PDF format.
+As part of a class project，we were designing a wind blade for operation and performance testing in Big Blue wind tunnel in Upson 256, Cornell University. My role is contributing to the math calculation to determine the estimated wind speed and power ouput and designing the experimental procedures to ensure the accruacy and safety of data collection. Please refer to [our final report]({{ "/assets/MAE_4272_Final_Report.pdf" | relative_url }}) in PDF format.
 
 
