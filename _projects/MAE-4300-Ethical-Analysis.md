@@ -1,6 +1,7 @@
 ---
 layout: project
-title: MAE 4300 Ethnical Analysis
+title: MAE 4300 Ethical Analysis
+technologies: [stakeholder conflict analysis]
 description: case analysis for Boeing 737 
 
 ---
