@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Leadership Experience 
+title: ENGRG 3900 Leadership Experience 
 
-technologies: [Respect, Responsbility, Listening，Passion]
+Skills: [Leadership, Respect, Responsbility, Listening skills, Confidence]
 image: /assets/images/group_photo.jpg
 ---
 
