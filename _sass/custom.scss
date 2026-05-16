@@ -102,10 +102,13 @@ footer {
 }
 
 .project-image {
-  float: left;
-  margin: 20px 25px 25px 0;
-  max-width: 200px;
-  vertical-align: top;
+  max-width: 500px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px 0 25px 0;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .inline-image {
@@ -136,6 +139,7 @@ footer {
   display: flex;
   justify-content: center;
   margin: auto;
+  max-width: 600px;
 }
 
 .project-gallery {
@@ -180,10 +184,7 @@ footer {
   transform: scale(1.05); 
 }
 
-.project-image {
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
+
 
 .back-arrow {
   display: inline-block;
